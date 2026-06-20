@@ -1,5 +1,5 @@
 import laptopImg from "../assets/images/laptop.jpg";
-import headphoneImg from "../assets/images/headphone.jpg";
+import headphoneImg from "../assets/images/headPhone.jpg";
 import watchImg from "../assets/images/watch.jpg";
 import sneakerImg from "../assets/images/sneaker.jpg";
 import sofaImg from "../assets/images/sofa.jpg";
